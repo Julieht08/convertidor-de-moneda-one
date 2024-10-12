@@ -1,0 +1,14 @@
+[
+  {
+    "De la Primera Moneda": "USD",
+    "A la Segunda Moneda": "ARS",
+    "Cantidad principal": 300.0,
+    "Cantidad convertida": 293826.0
+  },
+  {
+    "De la Primera Moneda": "ARS",
+    "A la Segunda Moneda": "USD",
+    "Cantidad principal": 293826.0,
+    "Cantidad convertida": 299.996346
+  }
+]
